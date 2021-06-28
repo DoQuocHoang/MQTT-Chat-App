@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file>qml/abc.qml</file>
+<file>qml/application.qml</file>
+<file>qml/authenticator.qml</file>
+<file>qml/frmAuth.qml</file>
+<file>qml/frmChat.qml</file>
+<file>qml/frmChat2.qml</file>
+<file>qml/frmContact.qml</file>
+<file>qml/frmMesSend.qml</file>
+<file>qml/main.qml</file>
+<file>qml/qt - How to add element to Column layout with JavaScript - Stack Overflow.html</file>
+</qresource>
+</RCC>
